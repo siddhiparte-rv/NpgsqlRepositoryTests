@@ -1,0 +1,16 @@
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\bin\Debug\net8.0\RV2.Data.Postgres.Base.deps.json
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\bin\Debug\net8.0\RV2.Data.Postgres.Base.dll
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\bin\Debug\net8.0\RV2.Data.Postgres.Base.pdb
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\bin\Debug\net8.0\RV2.Util.Base.dll
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\bin\Debug\net8.0\RV2.Util.Base.pdb
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.csproj.AssemblyReference.cache
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.AssemblyInfoInputs.cache
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.AssemblyInfo.cs
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.csproj.CoreCompileInputs.cache
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.sourcelink.json
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.162A38DE.Up2Date
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.dll
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\refint\RV2.Data.Postgres.Base.dll
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\RV2.Data.Postgres.Base.pdb
+C:\rv\rv2-be-monorepo\RV2-BE\Base\RV2.Data.Postgres.Base\obj\Debug\net8.0\ref\RV2.Data.Postgres.Base.dll
