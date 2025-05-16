@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base.Tests\\RV2.Data.Postgres.Base.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base.Tests\\RV2.Data.Postgres.Base.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base.Tests\\RV2.Data.Postgres.Base.Tests.csproj",
+        "projectName": "RV2.Data.Postgres.Base.Tests",
+        "projectPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base.Tests\\RV2.Data.Postgres.Base.Tests.csproj",
+        "packagesPath": "C:\\Users\\siddh\\.nuget\\packages\\",
+        "outputPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\rv\\rv2-be-monorepo\\RV2-BE\\NuGet.Config",
+          "C:\\Users\\siddh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/realvisionplatform/_packaging/realvisionplatform/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\RV2.Data.Postgres.Base.csproj": {
+                "projectPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\RV2.Data.Postgres.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Testcontainers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Testcontainers.PostgreSql": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\RV2.Data.Postgres.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\RV2.Data.Postgres.Base.csproj",
+        "projectName": "RV2.Data.Postgres.Base",
+        "projectPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\RV2.Data.Postgres.Base.csproj",
+        "packagesPath": "C:\\Users\\siddh\\.nuget\\packages\\",
+        "outputPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Data.Postgres.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\rv\\rv2-be-monorepo\\RV2-BE\\NuGet.Config",
+          "C:\\Users\\siddh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/realvisionplatform/_packaging/realvisionplatform/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\RV2.Util.Base.csproj": {
+                "projectPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\RV2.Util.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\RV2.Util.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\RV2.Util.Base.csproj",
+        "projectName": "RV2.Util.Base",
+        "projectPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\RV2.Util.Base.csproj",
+        "packagesPath": "C:\\Users\\siddh\\.nuget\\packages\\",
+        "outputPath": "C:\\rv\\rv2-be-monorepo\\RV2-BE\\Base\\RV2.Util.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\rv\\rv2-be-monorepo\\RV2-BE\\NuGet.Config",
+          "C:\\Users\\siddh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/realvisionplatform/_packaging/realvisionplatform/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ValueInjecter": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300-preview.0.25177.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
